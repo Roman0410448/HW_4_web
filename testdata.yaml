@@ -1,0 +1,21 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+
+login: "Roman90"
+password: "f7983c2d7d"
+title_hello: "Hello, Roman90"
+
+title: "NEW POST!"
+description: "SELENIUM HERE!"
+content: "THIS IS CONTENT BY SELENIUM!"
+
+username: Testov
+user_email: junk0410448@mail.ru
+content_contact: "Hello World!"
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 'Осень'
+
